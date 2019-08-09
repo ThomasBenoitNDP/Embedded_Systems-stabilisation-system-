@@ -1,7 +1,7 @@
 # Embedded_Systems-stabilisation-system
 
 (French engineering project)
-(Results presentation)
+(Report)
 
 This document describes how I managed my French study final project (2017). In a team of two, we programed embedded boards to stabilize two “inversed pendulums”. 
 The project involved two aspects:
